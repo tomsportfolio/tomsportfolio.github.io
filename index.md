@@ -8,6 +8,14 @@
 <script src="Javascript/scripty.js"></script>
 <link href="https://fonts.googleapis.com/css?family=Staatliches" rel="stylesheet"> 
 
+
+
+
+<link rel="stylesheet" type="text/css" href="Css/Sylesheet.css">
+
+</head>
+<body>
+
 <script type="text/javascript">
 function randomlinks(){
     var myrandom=Math.round(Math.random()*9)
@@ -29,12 +37,6 @@ function randomlinks(){
 <form>
 <input type="button" value="random link!" onClick="randomlinks()">
 </form>
-
-
-<link rel="stylesheet" type="text/css" href="Css/Sylesheet.css">
-
-</head>
-<body>
 
 <div id ="Headbar">
 	<UL>
