@@ -35,21 +35,9 @@ function randomlinks(){
 }
 </script>
 <form>
-<input type="button" value="random link!" onClick="randomlinks()">
+<input type="button" value="Click here to go to either the game or the article." onClick="randomlinks()">
 </form>
 
-<div id ="Headbar">
-	<UL>
-		
-		<li>
-		
-		<a href="https://www.youtube.com">Click Here</a>
-		
-		</li>
-		
-	</UL>
-	
-</div>
 
 </body>
 </html>
