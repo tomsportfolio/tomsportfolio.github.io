@@ -18,7 +18,7 @@
 
 <script type="text/javascript">
 function randomlinks(){
-    var myrandom=Math.round(Math.random()*9)
+    var myrandom=Math.round(Math.random()*1)
     var links=new Array()
     links[0]="https://shmeeb.itch.io/citation-needed"
     links[1]="https://www.bbc.co.uk/news/av/stories-51974040"
