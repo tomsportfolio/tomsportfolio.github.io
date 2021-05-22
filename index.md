@@ -17,7 +17,7 @@
 <body>
 
 <script type="text/javascript">
-function randomlinks(){
+function randomlinks1(){
     var myrandom=Math.round(Math.random()*1)
     var links=new Array()
     links[0]="https://shmeeb.itch.io/citation-needed"
@@ -26,8 +26,19 @@ function randomlinks(){
     window.location=links[myrandom]
 }
 </script>
+<script type="text/javascript">
+function randomlinks2(){
+    var myrandom=Math.round(Math.random()*1)
+    var links=new Array()
+    links[0]="https://forms.office.com/r/94nXQt2cyA"
+    links[1]="https://forms.office.com/r/mPsSaZm4Ms"
+ 
+    window.location=links[myrandom]
+}
+</script>
 <form>
-<input type="button" value="Click here to go to either the game or the article." onClick="randomlinks()">
+<input type="button" value="Click here to go to either the game or the article." onClick="randomlinks1()">
+<input type="button" value="Click here to return to the survey." onClick="randomlinks2()"()>
 </form>
 
 
