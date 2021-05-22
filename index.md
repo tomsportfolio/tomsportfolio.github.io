@@ -36,7 +36,7 @@ function randomlinks2(){
     var myrandom=Math.round(Math.random()*1)
     var links=new Array()
     links[0]="https://forms.office.com/r/mPsSaZm4Ms"
-    links[1]="https://forms.office.com/Pages/ResponsePage.aspx?id=xEculd4FgkKDr19LRrFij1SQ8_YtGcFOs5OLcjBO76NUQzZHM0ZKMkhQNzY3WjZKQ1c4NTdRWkMzVS4u"
+    links[1]="https://forms.office.com/r/iHEVdXtKDA"
  
     window.location=links[myrandom]
 }
