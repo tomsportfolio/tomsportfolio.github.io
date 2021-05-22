@@ -36,9 +36,11 @@ function randomlinks2(){
     window.location=links[myrandom]
 }
 </script>
+
 <form>
 <input type="button" value="Click here to go to either the game or the article." onClick="randomlinks1()">
 </form>
+
 <form>
 <input type="button" value="Click here to return to the survey." onClick="randomlinks2()"()>
 </form>
