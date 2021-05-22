@@ -42,7 +42,7 @@ function randomlinks2(){
 }
 </script>
 <form>
-<input type="button" value="Click here to return to the survey." onClick="randomlinks2()"()>
+<input type="button" value="Click here to return to the survey." onClick="randomlinks2()">
 </form>
 
 </body>
